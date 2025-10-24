@@ -1,2 +1,3 @@
 Implemented Auth with React and Firebase
-CheckOut - authapp07.netlify.app
+<br/>
+CheckOut - https://authapp07.netlify.app/
